@@ -3,7 +3,7 @@ baseurl: ''
 url: 'https://hyewwn.github.io'
 
 # THEME-SPECIFIC CONFIGURATION
-title: 하루이틀 개발로그 # site's title
+title: One Day Today # site's title
 description: "Won's Today Develop Log" # used by search engines
 avatar: assets/img/ant.png # Empty for no avatar in navbar
 favicon: assets/favicon.ico # Icon displayed in the tab
@@ -12,11 +12,10 @@ favicon: assets/favicon.ico # Icon displayed in the tab
 header_text: Won's Today Develop Log # Change Blog header text
 header_feature_image: assets/img/header/header.jpg
 header_feature_image_responsive: true
-# footer_text: >
-#  Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
+footer_text: contact address
 
 # Blog
-excerpt: true # Or "truncate" (first 250 characters), "false" to disable
+excerpt: truncate # Or "truncate" (first 250 characters), "false" to disable
 post_navigation: true
 color_image: /assets/img/lineart.png # A bit transparent for color posts.
 
