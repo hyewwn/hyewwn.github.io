@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Portfolio
+title: Projects
 permalink: /portfolio/
-subtitle: 'Projects: Done / In progress'
+subtitle: 'Done / In progress'
 feature-img: 'assets/img/pexels/computer.jpeg'
 position: 4
 tags: [Page]
