@@ -13,6 +13,8 @@ tags: [Page]
 
 본 블로그는 그동안의 저의 기록들, 그리고 앞으로의 기록들을 정리하기 위한 곳입니다. 본 블로그를 통해 저라는 사람을 알 수 있으면서도 지식의 전달 매개가 되었으면 하는 바램입니다.
 
-github: [hyewwn](https://github.com/hyewwn)
+저에 대한 자세한 정보는 아래 링크를 참조해주시기 바랍니다.
 
-CV: [Hyewon Ryu](https://hyewwnss.notion.site/hyewwnss/Hyewon-Ryu-a1cc3d54032f4b27a0364ba9ca8e1aca)
+**Github:** [hyewwn](https://github.com/hyewwn)
+
+**CV**: [Hyewon Ryu](https://hyewwnss.notion.site/hyewwnss/Hyewon-Ryu-a1cc3d54032f4b27a0364ba9ca8e1aca)
