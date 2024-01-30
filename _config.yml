@@ -34,7 +34,8 @@ comments:
   cusdis_app_id: # Your cusdis data-app-id
   utterances: # Enable by filling below information. For more info, go to https://utteranc.es
     repo: 'hyewwn/hyewwn-comment' # your public comments repository (e.g. owner/repo)
-    issue-term: 'comment' # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    issue-term: 'pathname' # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    label: Comment
 
 # PAGINATION
 paginate: 5
