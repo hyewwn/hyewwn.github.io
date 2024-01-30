@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '데이터마이닝: 맛집 리뷰 분석'
-feature-img: 'assets/img/portfolio/restaurant.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
 img: 'assets/img/portfolio/restaurant.jpg'
 date: 23 June 2022
 tags: [TextMining, LDA, TopicModeling]

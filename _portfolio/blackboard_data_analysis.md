@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 블랙보드 사용자 데이터 시각화 및 분석
-feature-img: 'assets/img/portfolio/survey.jpg'
-img: 'assets/img/portfolio/survey.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
+img: 'assets/img/portfolio/blackboard.jpg'
 date: 05 February 2023
 tags: [TextMining, Clustering]
 ---

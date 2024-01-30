@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CLIP with text augmentation'
-feature-img: 'assets/img/portfolio/clip.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
 img: 'assets/img/portfolio/clip.jpg'
 date: 23 December 2023
 tags: [CILP, ImageCaptioning, LLM]

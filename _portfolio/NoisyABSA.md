@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Domain Generalization on Aspect Based Sentiment Analysis
-feature-img: 'assets/img/portfolio/student.jpg'
-img: 'assets/img/portfolio/student.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
+img: 'assets/img/portfolio/survey.jpg'
 date: 30 June 2023
 tags: [LLM, Distillation, DomainGeneralization, NLP]
 ---

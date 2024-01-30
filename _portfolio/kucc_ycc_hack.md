@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 유사 강의 추천시스템
-feature-img: 'assets/img/portfolio/blackboard.jpg'
-img: 'assets/img/portfolio/blackboard.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
+img: 'assets/img/portfolio/student.jpg'
 date: 30 July 2022
 tags: [TextMining, LDA, TopicModeling]
 ---

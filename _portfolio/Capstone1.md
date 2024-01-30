@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '대형마트의 공조제어 데이터를 활용한 시계열 온도 예측'
-feature-img: 'assets/img/portfolio/market.jpg'
+feature-img: 'assets/img/portfolio/blue.jpg'
 img: 'assets/img/portfolio/market.jpg'
 date: 23 December 2023
 tags: [TimeSeries, Forecasting]
